@@ -1,4 +1,4 @@
-with open("problem-1-input.txt") as file:
+with open("day-1-input.txt") as file:
     oldLine = 0
     increased = 0
     for line in file:

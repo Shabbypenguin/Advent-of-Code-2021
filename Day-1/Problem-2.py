@@ -1,4 +1,4 @@
-with open("problem-1-input.txt") as file:
+with open("day-1-input.txt") as file:
     oldLine1 = 0
     oldLine2 = 0
     oldLine3 = 0
